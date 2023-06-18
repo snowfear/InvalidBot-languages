@@ -79,6 +79,12 @@
         },
         "autoReply": {
             "ASKINGFORKIT": "#DISCORDUSER Puedes pedir un kit en #REQUESTKITCHANNEL"
+        },
+                    "banRequest": {
+            "NOTAMOD": "No eres un Moderador.",
+            "INVALIDTARGET": "Objetivo inválido.",
+            "INVALIDTIME": "Debe ser una duración válida y menor a 28 días.",
+            "SUCCESS": "Veto: (#DISCORD) vetó a (#DISCORDTARGET) por solicitar un kit (#TIMEs) veces"
         }
     }
 }
